@@ -4516,7 +4516,7 @@
   {
     "instance": "FX48mds",
     "vCpu": 48,
-    "ram": 1,
+    "ram": 1008,
     "payAsYouGo": 6.672,
     "payAsYouGoWithAzureHybridBenefit": 4.464,
     "oneYearSavingsPlan": 5.9238,
@@ -8184,7 +8184,7 @@
   {
     "instance": "M64",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1000,
     "payAsYouGo": 9.613,
     "payAsYouGoWithAzureHybridBenefit": 6.669,
     "oneYearSavingsPlan": 7.5449,
@@ -8204,7 +8204,7 @@
   {
     "instance": "M64s",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1024,
     "payAsYouGo": 9.613,
     "payAsYouGoWithAzureHybridBenefit": 6.669,
     "oneYearSavingsPlan": 7.5449,
@@ -8224,7 +8224,7 @@
   {
     "instance": "M64ms",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1750,
     "payAsYouGo": 14.641,
     "payAsYouGoWithAzureHybridBenefit": 10.337,
     "oneYearSavingsPlan": 10.0755,
@@ -8244,7 +8244,7 @@
   {
     "instance": "M64m",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1750,
     "payAsYouGo": 14.641,
     "payAsYouGoWithAzureHybridBenefit": 10.337,
     "oneYearSavingsPlan": 10.0755,
@@ -8264,7 +8264,7 @@
   {
     "instance": "M128s",
     "vCpu": 128,
-    "ram": 2,
+    "ram": 2000,
     "payAsYouGo": 19.226,
     "payAsYouGoWithAzureHybridBenefit": 13.338,
     "oneYearSavingsPlan": 15.0899,
@@ -8284,7 +8284,7 @@
   {
     "instance": "M128",
     "vCpu": 128,
-    "ram": 2,
+    "ram": 2000,
     "payAsYouGo": 19.226,
     "payAsYouGoWithAzureHybridBenefit": 13.338,
     "oneYearSavingsPlan": 15.0899,
@@ -8304,7 +8304,7 @@
   {
     "instance": "M128ms",
     "vCpu": 128,
-    "ram": 3,
+    "ram": 3800,
     "payAsYouGo": 35.814,
     "payAsYouGoWithAzureHybridBenefit": 26.688,
     "oneYearSavingsPlan": 24.3001,
@@ -8324,7 +8324,7 @@
   {
     "instance": "M128m",
     "vCpu": 128,
-    "ram": 3,
+    "ram": 3800,
     "payAsYouGo": 35.814,
     "payAsYouGoWithAzureHybridBenefit": 26.688,
     "oneYearSavingsPlan": 24.3001,
@@ -8364,7 +8364,7 @@
   {
     "instance": "M64ds v2",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1024,
     "payAsYouGo": 9.613,
     "payAsYouGoWithAzureHybridBenefit": 6.669,
     "oneYearSavingsPlan": 7.5449,
@@ -8384,7 +8384,7 @@
   {
     "instance": "M64dms v2",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1792,
     "payAsYouGo": 13.284,
     "payAsYouGoWithAzureHybridBenefit": 10.34,
     "oneYearSavingsPlan": 10.0776,
@@ -8404,7 +8404,7 @@
   {
     "instance": "M128ds v2",
     "vCpu": 128,
-    "ram": 2,
+    "ram": 2048,
     "payAsYouGo": 19.228,
     "payAsYouGoWithAzureHybridBenefit": 13.34,
     "oneYearSavingsPlan": 15.0913,
@@ -8424,7 +8424,7 @@
   {
     "instance": "M128dms v2",
     "vCpu": 128,
-    "ram": 3,
+    "ram": 3892,
     "payAsYouGo": 32.578,
     "payAsYouGoWithAzureHybridBenefit": 26.69,
     "oneYearSavingsPlan": 24.3014,
@@ -8444,7 +8444,7 @@
   {
     "instance": "M192ids v2",
     "vCpu": 192,
-    "ram": 2,
+    "ram": 2048,
     "payAsYouGo": 24.864,
     "payAsYouGoWithAzureHybridBenefit": 16.032,
     "oneYearSavingsPlan": 19.8925,
@@ -8464,7 +8464,7 @@
   {
     "instance": "M192idms v2",
     "vCpu": 192,
-    "ram": 4,
+    "ram": 4096,
     "payAsYouGo": 40.896,
     "payAsYouGoWithAzureHybridBenefit": 32.064,
     "oneYearSavingsPlan": 30.953,
@@ -8504,7 +8504,7 @@
   {
     "instance": "M64s v2",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1024,
     "payAsYouGo": 9.403,
     "payAsYouGoWithAzureHybridBenefit": 6.459,
     "oneYearSavingsPlan": 7.4001,
@@ -8524,7 +8524,7 @@
   {
     "instance": "M64ms v2",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1792,
     "payAsYouGo": 13.073,
     "payAsYouGoWithAzureHybridBenefit": 10.13,
     "oneYearSavingsPlan": 9.9327,
@@ -8544,7 +8544,7 @@
   {
     "instance": "M128s v2",
     "vCpu": 128,
-    "ram": 2,
+    "ram": 2048,
     "payAsYouGo": 18.807,
     "payAsYouGoWithAzureHybridBenefit": 12.919,
     "oneYearSavingsPlan": 14.8008,
@@ -8564,7 +8564,7 @@
   {
     "instance": "M128ms v2",
     "vCpu": 128,
-    "ram": 3,
+    "ram": 3892,
     "payAsYouGo": 32.157,
     "payAsYouGoWithAzureHybridBenefit": 26.269,
     "oneYearSavingsPlan": 24.011,
@@ -8584,7 +8584,7 @@
   {
     "instance": "M192is v2",
     "vCpu": 192,
-    "ram": 2,
+    "ram": 2048,
     "payAsYouGo": 24.444,
     "payAsYouGoWithAzureHybridBenefit": 15.611,
     "oneYearSavingsPlan": 19.602,
@@ -8604,7 +8604,7 @@
   {
     "instance": "M192ims v2",
     "vCpu": 192,
-    "ram": 4,
+    "ram": 4096,
     "payAsYouGo": 40.476,
     "payAsYouGoWithAzureHybridBenefit": 31.643,
     "oneYearSavingsPlan": 30.6625,
@@ -8624,7 +8624,7 @@
   {
     "instance": "M208s v2",
     "vCpu": 208,
-    "ram": 2,
+    "ram": 2850,
     "payAsYouGo": 31.878,
     "payAsYouGoWithAzureHybridBenefit": 22.31,
     "oneYearSavingsPlan": 24.9597,
@@ -8644,7 +8644,7 @@
   {
     "instance": "M208ms v2",
     "vCpu": 208,
-    "ram": 5,
+    "ram": 5700,
     "payAsYouGo": 54.188,
     "payAsYouGoWithAzureHybridBenefit": 44.62,
     "oneYearSavingsPlan": 40.3513,
@@ -8664,7 +8664,7 @@
   {
     "instance": "M416s v2",
     "vCpu": 416,
-    "ram": 5,
+    "ram": 5700,
     "payAsYouGo": 68.716,
     "payAsYouGoWithAzureHybridBenefit": 49.58,
     "oneYearSavingsPlan": 53.3412,
@@ -8684,7 +8684,7 @@
   {
     "instance": "M416s_8_v2",
     "vCpu": 416,
-    "ram": 7,
+    "ram": 7600,
     "payAsYouGo": 85.25,
     "payAsYouGoWithAzureHybridBenefit": 66.11,
     "oneYearSavingsPlan": 64.7453,
@@ -8704,7 +8704,7 @@
   {
     "instance": "M416ms v2",
     "vCpu": 416,
-    "ram": 11,
+    "ram": 11400,
     "payAsYouGo": 118.29,
     "payAsYouGoWithAzureHybridBenefit": 99.15,
     "oneYearSavingsPlan": 87.5396,
@@ -10420,7 +10420,7 @@
   {
     "instance": "M64-16ms",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1750,
     "payAsYouGo": 14.641,
     "payAsYouGoWithAzureHybridBenefit": 10.337,
     "oneYearSavingsPlan": 10.0755,
@@ -10440,7 +10440,7 @@
   {
     "instance": "M64-32ms",
     "vCpu": 64,
-    "ram": 1,
+    "ram": 1750,
     "payAsYouGo": 14.641,
     "payAsYouGoWithAzureHybridBenefit": 10.337,
     "oneYearSavingsPlan": 10.0755,
@@ -10660,7 +10660,7 @@
   {
     "instance": "M128-32ms",
     "vCpu": 128,
-    "ram": 3,
+    "ram": 3800,
     "payAsYouGo": 35.814,
     "payAsYouGoWithAzureHybridBenefit": 26.688,
     "oneYearSavingsPlan": 24.3001,
@@ -10680,7 +10680,7 @@
   {
     "instance": "M128-64ms",
     "vCpu": 128,
-    "ram": 3,
+    "ram": 3800,
     "payAsYouGo": 35.814,
     "payAsYouGoWithAzureHybridBenefit": 26.688,
     "oneYearSavingsPlan": 24.3001,
@@ -11834,7 +11834,7 @@
   {
     "instance": "ND96amsr A100 v4",
     "vCpu": 96,
-    "ram": 1,
+    "ram": 1900,
     "payAsYouGo": 37.186,
     "payAsYouGoWithAzureHybridBenefit": 32.77,
     "oneYearSavingsPlan": 32.6605,
@@ -12320,7 +12320,7 @@
   {
     "instance": "HX176rs",
     "vCpu": 176,
-    "ram": 1,
+    "ram": 1300,
     "payAsYouGo": 6.4799,
     "payAsYouGoWithAzureHybridBenefit": 6.4799,
     "oneYearSavingsPlan": 5.33,
@@ -12338,7 +12338,7 @@
   {
     "instance": "HX176-144rs",
     "vCpu": 176,
-    "ram": 1,
+    "ram": 1300,
     "payAsYouGo": 6.4799,
     "payAsYouGoWithAzureHybridBenefit": 6.4799,
     "oneYearSavingsPlan": 5.33,
@@ -12356,7 +12356,7 @@
   {
     "instance": "HX176-24rs",
     "vCpu": 176,
-    "ram": 1,
+    "ram": 1300,
     "payAsYouGo": 6.4799,
     "payAsYouGoWithAzureHybridBenefit": 6.4799,
     "oneYearSavingsPlan": 5.33,
@@ -12374,7 +12374,7 @@
   {
     "instance": "HX176-48rs",
     "vCpu": 176,
-    "ram": 1,
+    "ram": 1300,
     "payAsYouGo": 6.4799,
     "payAsYouGoWithAzureHybridBenefit": 6.4799,
     "oneYearSavingsPlan": 5.33,
@@ -12392,7 +12392,7 @@
   {
     "instance": "HX176-96rs",
     "vCpu": 176,
-    "ram": 1,
+    "ram": 1300,
     "payAsYouGo": 6.4799,
     "payAsYouGoWithAzureHybridBenefit": 6.4799,
     "oneYearSavingsPlan": 5.33,
